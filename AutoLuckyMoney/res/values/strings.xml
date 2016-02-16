@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">红包来了</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_description">只有开启辅助功能，才可自动抢红包额</string>
+    <string name="open_service">开启自动抢红包</string>
+    <string name="close_service">关闭自动抢红包</string>
+
+</resources>
